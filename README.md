@@ -55,10 +55,16 @@ Full-Stack Developer focused on building high-performance web architectures, imm
 
 ### 📊 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirantanv19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirantanv19&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" height="180px" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chirantanv19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chirantan's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirantanv19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirantanv19&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</div>
 
 ---
 
